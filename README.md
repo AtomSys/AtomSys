@@ -8,7 +8,7 @@
 # The longer edition
 
 Go Here ⬇️
-[https://atomsys.github.io/aboutme.html](https://atomsys.github.io/aboutme.html)
+[https://atomsys.github.io/about/](https://atomsys.github.io/about/)
 
 <!---
 AtomSys/AtomSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
