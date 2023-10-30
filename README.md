@@ -1,4 +1,4 @@
-#The Short Edition
+# The Short Edition
 - 👋 Hi, I’m @AtomSys
 - 👀 I’m interested in coding with HTML and Swift
 - 🌱 I’m currently learning how to make iPhone and Mac apps with swift
